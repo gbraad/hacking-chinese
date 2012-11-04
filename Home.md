@@ -1,6 +1,3 @@
----
----
-
 Learning Chinese the engineer's way
 ===================================
 

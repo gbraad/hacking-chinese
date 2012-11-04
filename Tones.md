@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Tones
 ---
 
 Tones
