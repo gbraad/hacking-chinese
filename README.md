@@ -1,5 +1,5 @@
-Learning Chinese the engineer's/developer's way
-===============================================
+Learning Chinese the engineer's way
+===================================
 
 
 # License
